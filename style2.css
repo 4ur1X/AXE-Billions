@@ -11,6 +11,26 @@ a{
     text-decoration: none;
 }
 
+.first{
+    font-family: 'Montserrat', sans-serif;
+    color: gold;
+    font-size: 4em;
+    position: fixed;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.second{
+    font-family: 'Montserrat', sans-serif;
+    color: gold;
+    font-size: 3em;
+    position: fixed;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .container{
     position: fixed;
     top: 50%;
